@@ -1,6 +1,7 @@
 ## Hello World 👋
+### Data Science Enthusiast here!
 
-<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="900" height="600">
+<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="480" height="300">
 
 
 ##### Made with ❤️ by [Lucky Verma](https://github.com/thinkersloo)
