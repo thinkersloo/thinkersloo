@@ -1,7 +1,7 @@
 ## Hello World 👋
 
-
-<iframe src="https://giphy.com/embed/SKab6E8Qeg7sY" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/infographic-infographics-statistics-SKab6E8Qeg7sY">via GIPHY</a></p>
+<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif">
+<img src="https://giphy.com/embed/SKab6E8Qeg7sY" width="480" height="300" >
 
 
 ##### Made with ❤️ by [Lucky Verma](https://github.com/thinkersloo)
