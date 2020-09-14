@@ -1,5 +1,5 @@
 ## Hello World 👋
-### Data Science Enthusiast here!
+### Data Science Enthusiast here!📈
 
 <img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="480" height="300">
 
