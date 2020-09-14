@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif">
+<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="600" height="600">
 
 
 ##### Made with ❤️ by [Lucky Verma](https://github.com/thinkersloo)
