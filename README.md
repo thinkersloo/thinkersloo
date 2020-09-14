@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "https://media.giphy.com/media/ToMjGpMmVLMg9s7efgA/giphy.gif">
+<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif">
 
 
 ##### Made with ❤️ by [Lucky Verma](https://github.com/thinkersloo)
