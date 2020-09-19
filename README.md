@@ -4,7 +4,7 @@
 <img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="480" height="300">
 
 
-##### Made with ❤️ by [Lucky Verma](https://github.com/thinkersloo)
+##### Made with ❤️ by [Lucky Verma](https://github.com/lucky-verma)
 
 ##### Connect with me: 
 
