@@ -13,5 +13,6 @@
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lucky-verma/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 
-[@luckieverma](https://twitter.com/luckieverma) &nbsp;&nbsp;&nbsp;
+
 [@lucky-verma](https://www.linkedin.com/in/lucky-verma/)
+[@luckieverma](https://twitter.com/luckieverma) &nbsp;&nbsp;&nbsp;
