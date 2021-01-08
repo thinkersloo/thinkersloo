@@ -6,6 +6,8 @@
 
 ##### Made with ❤️ by [Lucky Verma](https://github.com/lucky-verma)
 
+![lucky-verma's github stats](https://github-readme-stats.vercel.app/api?username=lucky-verma&count_private=true&show_icons=true&theme=highcontrast&line_height=21) 
+
 ##### Connect with me: 
 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
