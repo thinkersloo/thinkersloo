@@ -1,12 +1,8 @@
 ## Hello World 👋
 ### AI Enthusiast here! 🤖
 
-<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="320" height="200">
-
-
-<summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucky-verma&show_icons=true&hide_border=true" />
+<img src = "https://media.giphy.com/media/SKab6E8Qeg7sY/giphy.gif" width="320" height="200"> <summary>:zap: GitHub Stats</summary>
+                                                                                              <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucky-verma&show_icons=true&hide_border=true" />
 
 ##### Connect with me: 
 
