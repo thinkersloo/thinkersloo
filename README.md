@@ -1,8 +1,6 @@
 ## Hello World 👋
 ### AI Enthusiast here! 🤖
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-verma" alt="lucky-verma" /> </p>
-
 **Pinned**
 - ⚡ [Gesture Control of Drone](https://github.com/lucky-verma/GCOD)
 - ⚡ [Invoice Information extraction(IE)](https://github.com/lucky-verma/Invoice-Data-Extraction)
@@ -21,6 +19,8 @@
 [linkedin]: https://www.linkedin.com/in/lucky-verma/ 
 [twitter]: https://twitter.com/luckieverma/
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-verma" alt="lucky-verma" /> </p>
 
 ### **Language and Tools**
 
