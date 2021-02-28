@@ -1,5 +1,6 @@
-## Hello World 👋
-### AI Enthusiast here! 🤖
+### Hello World 👋 AI Enthusiast here! 🤖
+
+I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
 **Pinned**
 - ⚡ [Gesture Control of Drone](https://github.com/lucky-verma/GCOD)
