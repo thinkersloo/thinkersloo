@@ -14,12 +14,12 @@
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/lucky-verma/)
 
-**: Find me around**
+### **Find me around:**
   [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
- [linkedin]: https://www.linkedin.com/in/lucky-verma/ 
- [twitter]: https://twitter.com/luckieverma/
+[linkedin]: https://www.linkedin.com/in/lucky-verma/ 
+[twitter]: https://twitter.com/luckieverma/
 
 
 ### **Language and Tools**
