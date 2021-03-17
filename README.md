@@ -23,8 +23,6 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-verma" alt="lucky-verma" /> </p>
 
-### **Language and Tools**
-<br/>
 <p align="center">
   <img src="./icons/aws.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -37,10 +35,12 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="./icons/scala.svg" alt="scala" width="40" height="40"/>
-</p> 
-<br/>
+</p>
+
+
+### **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-verma&theme=radical)
-![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucky-verma&hide=prs,issues,contribs?username=lucky-verma&count_private=true?username=lucky-verma&show_icons=true&theme=radical)
+![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucky-verma&hide=prs,issues,contribs?username=lucky-verma&count_private=true?username=lucky-verma&show_icons=true&theme=radical)
 
 
 
