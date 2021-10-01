@@ -1,6 +1,6 @@
 ### Hello World 👋 AI Enthusiast here! 🤖
 
-<img src="./assets/MyNFTs.png" alt="aws"/>
+<img src="./assets/lucky-cover.png" alt="aws"/>
 
 I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
