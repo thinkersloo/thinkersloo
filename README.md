@@ -8,8 +8,8 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
 
 - ⚡ [Gesture Control of Drone](https://github.com/lucky-verma/GCOD)
 - ⚡ [Invoice Information extraction(IE)](https://github.com/lucky-verma/Invoice-Data-Extraction)
-<!-- - ⚡ [Camera to Face Distance](https://github.com/lucky-verma/camera-to-face-distance) -->
 - ⚡ [Driving License Data Extraction](https://github.com/lucky-verma/US-Driver-License-data-extraction)
+<!-- - ⚡ [Camera to Face Distance](https://github.com/lucky-verma/camera-to-face-distance) -->
 
 **Updates:**
 
