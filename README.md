@@ -41,10 +41,15 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
   <img src="./icons/scala.svg" alt="scala" width="40" height="40"/>
 </p>
 
-### **Language and Tools**
+<!-- ### **Language and Tools**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-verma&theme=radical)
-![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucky-verma&hide=prs,issues,contribs?username=lucky-verma&count_private=true?username=lucky-verma&show_icons=true&theme=radical)
+![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucky-verma&hide=prs,issues,contribs?username=lucky-verma&count_private=true?username=lucky-verma&show_icons=true&theme=radical) -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky-verma&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucky-verma&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucky-verma&theme=github_dark)
 
 <!--
 **lucky-verma/lucky-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
