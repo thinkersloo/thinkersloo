@@ -21,7 +21,10 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![black_bmc](https://user-images.githubusercontent.com/63258138/220829328-8993399c-aad0-41a3-a6cc-5140ba8ad914.png)
 
+
+[black_bmc]: https://www.buymeacoffee.com/luckyverma
 [linkedin]: https://www.linkedin.com/in/lucky-verma/
 [twitter]: https://twitter.com/luckieverma/
 
