@@ -6,6 +6,7 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
 
 **Pinned**
 
+- ⚡ [Scene Text Extraction](https://github.com/lucky-verma/Scene-Text-Detection)
 - ⚡ [Gesture Control of Drone](https://github.com/lucky-verma/GCOD)
 - ⚡ [Invoice Information extraction(IE)](https://github.com/lucky-verma/Invoice-Data-Extraction)
 - ⚡ [Driving License Data Extraction](https://github.com/lucky-verma/US-Driver-License-data-extraction)
