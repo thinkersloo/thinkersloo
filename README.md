@@ -4,18 +4,8 @@
 
 I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process.
 
-**Pinned**
-
-- ⚡ [Scene Text Extraction](https://github.com/lucky-verma/Scene-Text-Detection)
-- ⚡ [Gesture Control of Drone](https://github.com/lucky-verma/GCOD)
-- ⚡ [Invoice Information extraction(IE)](https://github.com/lucky-verma/Invoice-Data-Extraction)
-- ⚡ [Driving License Data Extraction](https://github.com/lucky-verma/US-Driver-License-data-extraction)
-<!-- - ⚡ [Camera to Face Distance](https://github.com/lucky-verma/camera-to-face-distance) -->
-
-**Updates:**
-
 - 🌱 I’m currently learning and building projects around LLMs use cases.
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
+- 👯 I’m looking to collaborate on **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/lucky-verma/)
 
 ### **Find me around:**
@@ -27,14 +17,11 @@ I'm **Lucky Verma**, a **Deep Learning** and **Machine Learning** **Practitioner
 [twitter]: https://twitter.com/luckieverma/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky-verma" alt="lucky-verma" /> </p>
-
 <p align="center">
   <img src="./icons/aws.svg" alt="aws" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> 
   <img src="./icons/typescript.svg" alt="typescript" width="40" height="40"/>
-  <img src="./icons/react.svg" alt="react" width="40" height="40"/> 
-  <img src="./icons/redux.svg" alt="redux" width="40" height="40"/>
   <img src="./icons/python.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
